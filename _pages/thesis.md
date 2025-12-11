@@ -75,3 +75,5 @@ Both theses reflect how I like to work at the boundary between modelling and sys
 </ul>
 
 In the future I hope to continue building systems that connect data, models and human interaction — whether in education, engineering or other applied domains.
+
+Add this page
