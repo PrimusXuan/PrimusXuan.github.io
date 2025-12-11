@@ -11,7 +11,7 @@ author_profile: true
 MSc Information Technology, University of Glasgow (2025)
 <br><br>
 
-My master&apos;s thesis explores how Extended Reality (XR), 3D avatars and large language models can work together to support language learning on the Meta Quest 2. I built a VR prototype in Unity where learners can practise conversations in English, Chinese and Japanese with an AI-driven avatar.   
+My master&apos;s thesis explores how Extended Reality (XR), 3D avatars and large language models can work together to support language learning on the Meta Quest 2. I built a VR prototype in Unity where learners can practise conversations in English, Chinese and Japanese with an AI-driven avatar.
 
 The system connects several components into a real-time loop:
 
@@ -23,7 +23,7 @@ The system connects several components into a real-time loop:
   <li>Synchronizing subtitles, lip motion and dialogue history inside Unity.</li>
 </ul>
 
-The technical focus is on keeping this loop stable under latency and hardware constraints: handling asynchronous API calls, avoiding blocking operations, managing errors and timeouts, and still maintaining a smooth user experience in VR.   
+The technical focus is on keeping this loop stable under latency and hardware constraints: handling asynchronous API calls, avoiding blocking operations, managing errors and timeouts, and still maintaining a smooth user experience in VR.
 
 Key aspects include:
 
@@ -37,8 +37,19 @@ Key aspects include:
 [📘 Download MSc thesis (PDF)](/files/MSc_project_2745883w.pdf)
 
 <br><br>
+
+<!-- YouTube video embed -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-bottom: 40px;">
+  <iframe 
+      src="https://www.youtube.com/embed/o5BAKsWjyx0"
+      style="position: absolute; top:0; left:0; width:100%; height:100%;"
+      frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 <hr>
 <br>
+
 
 <h1>Bachelor&apos;s Thesis</h1>
 
