@@ -62,8 +62,9 @@ social:
   type                   : "Person"
   name                   : "Ruxuan Wang"
   links:
-    - "https://github.com/PrimusXuan"
-    - "https://www.linkedin.com/in/ruxuan-wang"
+    - "https://github.com/PrimusXuan"  
+    - "https://www.instagram.com/primus.jpg/"
+
 
 # Analytics (关闭)
 analytics:
