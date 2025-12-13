@@ -82,8 +82,8 @@ author:
   email            : "ruxuan.wang727@gmail.com"
   github           : 
   linkedin         : "p-ruxuan-wang"      # ✅ 去掉两边的 /
-  instagram        : "primus.jpg"       # ✅ 新增：只写用户名，不要写 https，也不要写 /
-  twitter          : "ruxuan_wong"      
+  instagram        : "primus.jpg?utm_source=site"
+  twitter          :    
 
 
 # Reading Files
