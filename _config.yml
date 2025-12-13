@@ -62,8 +62,9 @@ social:
   type                   : "Person"
   name                   : "Ruxuan Wang"
   links:
-    - "https://github.com/PrimusXuan"  
     - "https://www.instagram.com/primus.jpg/"
+    - "https://www.linkedin.com/in/p-ruxuan-wang/"
+    - "https://x.com/ruxuan_wong"
 
 
 # Analytics (关闭)
@@ -79,9 +80,11 @@ author:
   employer         : ""
   googlescholar    :
   email            : "ruxuan.wang727@gmail.com"
-  github           : "PrimusXuan"
-  linkedin         : "/ruxuan-wang/"
-  twitter          :
+  github           : 
+  linkedin         : "p-ruxuan-wang"      # ✅ 去掉两边的 /
+  instagram        : "primus.jpg"       # ✅ 新增：只写用户名，不要写 https，也不要写 /
+  twitter          : "ruxuan_wong"      
+
 
 # Reading Files
 include:
